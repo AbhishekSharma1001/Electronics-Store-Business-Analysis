@@ -163,25 +163,36 @@ Includes KPI cards, monthly trends, regional analysis, and category breakdowns w
 
 
 
-<img src="https://github.com/AbhishekSharma1001/Excel-Retail-Superstore-Interactive-Dashboard/blob/9df52e305ccf76192bd9d41bd6d9e5ca007cffe0/Dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/AbhishekSharma1001/Electronics-Store-Business-Analysis/blob/d7783c4ab027df5bb7b47d5551a32e0b217e0ce6/Data.S.1.png" alt="Image Description" width="600">
 <br>
 
 <br>
 
-<img src="https://github.com/AbhishekSharma1001/Excel-Retail-Superstore-Interactive-Dashboard/blob/9eb168804ba3b2a01a927bcef4a010e4c72f6479/Pivot%20Table.png" alt="Image Description" width="600">
+<img src="https://github.com/AbhishekSharma1001/Electronics-Store-Business-Analysis/blob/d7783c4ab027df5bb7b47d5551a32e0b217e0ce6/Data.S.2.png" alt="Image Description" width="600">
 
 
 
 📂 Repository Contents
 
 <br>
-1.Excel Dashboard File – Contains raw data, pivot tables, and final dashboard
+1.Excel Dashboard File – Contains raw data, pivot tables
 <br>
-2.Dashboard Image – Snapshot of the dashboard
+2.Analysis Report
 <br>
 
 README.md – Project documentation
 
+<br>
+Tools Used
+<br>
+
+1.Microsoft Excel
+<br>
+2.Pivot Tables
+<br>
+3.Revenue Retention Analysis
+<br>
+4.KPI Design
 <br>
 
 🧠 Skills Demonstrated
@@ -191,15 +202,13 @@ README.md – Project documentation
 <br>
 2.Data Analysis using Pivot Tables
 <br>
-3.Interactive Dashboard Creation
+3.Business Insight Generation
 <br>
-4.Business Insight Generation
-<br>
-5.Data Storytelling
+4.Data Storytelling
 <br>
 👨‍💻 Author
 <br>
 
 Abhishek Sharma
 <br>
-Aspiring Data Analyst | Learning Excel, SQL, Power BI & Python
+Aspiring Data Analyst |Excel, SQL, Power BI & Python
